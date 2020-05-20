@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { Navbar, Footer } from 'react-reused-components';
+import Home from './components/Home';
 import Buttons from './components/Buttons';
 import Inputs from './components/Inputs';
 import Alerts from './components/Alerts';
@@ -14,7 +15,7 @@ import Shoppingcart from './components/Shoppingcart';
 
 function App() {
   return (
-    <div>
+    <div style={{marginTop:'-10px', marginLeft:'-15px'}}>
           <Router>
          <Navbar
       navbarStyle='navbar--dark'
@@ -29,6 +30,7 @@ function App() {
       Tab8='Carddetails'
       Tab9='Shoppingcart'
     />
+        <Route exact path="/" component={Home} />
         <Route path="/Buttons" component={Buttons} />
         <Route path="/Inputs" component={Inputs} />
         <Route path="/Alerts" component={Alerts} />
