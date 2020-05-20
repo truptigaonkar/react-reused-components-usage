@@ -8,6 +8,9 @@ import Alerts from './components/Alerts';
 import Headerdata from './components/Headerdata';
 import Bar from './components/Bar';
 import Popup from './components/Popup';
+import Shoppingcard from './components/Shoppingcard';
+import Carddetails from './components/Carddetails';
+import Shoppingcart from './components/Shoppingcart';
 
 function App() {
   return (
@@ -22,6 +25,9 @@ function App() {
       Tab4='Headerdata'
       Tab5='Bar'
       Tab6='Popup'
+      Tab7='Shoppingcard'
+      Tab8='Carddetails'
+      Tab9='Shoppingcart'
     />
         <Route path="/Buttons" component={Buttons} />
         <Route path="/Inputs" component={Inputs} />
@@ -29,6 +35,9 @@ function App() {
         <Route path="/Headerdata" component={Headerdata} />
         <Route path="/Bar" component={Bar} />
         <Route path="/Popup" component={Popup} />
+        <Route path="/Shoppingcard" component={Shoppingcard} />
+        <Route path="/Carddetails" component={Carddetails} />
+        <Route path="/Shoppingcart" component={Shoppingcart} />
     </Router>
      <Footer footerStyle='footer--secondary' footerFixed='footer--fixed'>
       © Copyright 2020 adfd
