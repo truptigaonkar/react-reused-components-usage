@@ -4,13 +4,12 @@ import { Button } from 'react-reused-components';
 const Form = () => {
   return (
     <div style={{ marginLeft:'50px', width:'120%'}}>
-      <table>
+      <table style={{ textAlign:'center'}}>
         <thead>
           <tr>
             <th>Button</th>
             <th>Solid Buttons with different Sizes</th>
             <th>Outlined Buttons with different Sizes</th>
-          
           </tr>
         </thead>
         <tbody>
