@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36afa04a20b2edd20651198914fc53a0",
+    "revision": "3aecfcfb549f46183df605517df4f33d",
     "url": "/react-reused-components-usage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-reused-components-usage/static/css/2.774e89e5.chunk.css"
   },
   {
-    "revision": "d36bc9c6965a9f4582d1",
+    "revision": "86908018d777f5435fea",
     "url": "/react-reused-components-usage/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-reused-components-usage/static/js/2.81b337d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d36bc9c6965a9f4582d1",
-    "url": "/react-reused-components-usage/static/js/main.c3b037d9.chunk.js"
+    "revision": "86908018d777f5435fea",
+    "url": "/react-reused-components-usage/static/js/main.cadd085b.chunk.js"
   },
   {
     "revision": "f9219d3e9c5dc4c1f35f",
