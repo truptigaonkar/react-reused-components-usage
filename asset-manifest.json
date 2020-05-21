@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react-reused-components-usage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-reused-components-usage/static/js/main.ff6fae74.chunk.js",
-    "main.js.map": "/react-reused-components-usage/static/js/main.ff6fae74.chunk.js.map",
+    "main.js": "/react-reused-components-usage/static/js/main.c3b037d9.chunk.js",
+    "main.js.map": "/react-reused-components-usage/static/js/main.c3b037d9.chunk.js.map",
     "runtime-main.js": "/react-reused-components-usage/static/js/runtime-main.5f820119.js",
     "runtime-main.js.map": "/react-reused-components-usage/static/js/runtime-main.5f820119.js.map",
     "static/css/2.774e89e5.chunk.css": "/react-reused-components-usage/static/css/2.774e89e5.chunk.css",
-    "static/js/2.20f8c121.chunk.js": "/react-reused-components-usage/static/js/2.20f8c121.chunk.js",
-    "static/js/2.20f8c121.chunk.js.map": "/react-reused-components-usage/static/js/2.20f8c121.chunk.js.map",
+    "static/js/2.81b337d4.chunk.js": "/react-reused-components-usage/static/js/2.81b337d4.chunk.js",
+    "static/js/2.81b337d4.chunk.js.map": "/react-reused-components-usage/static/js/2.81b337d4.chunk.js.map",
     "index.html": "/react-reused-components-usage/index.html",
-    "precache-manifest.42998884a3ca29736365a988f81f0828.js": "/react-reused-components-usage/precache-manifest.42998884a3ca29736365a988f81f0828.js",
+    "precache-manifest.bc23093cd8d3416d27d765f2f4c2aeb0.js": "/react-reused-components-usage/precache-manifest.bc23093cd8d3416d27d765f2f4c2aeb0.js",
     "service-worker.js": "/react-reused-components-usage/service-worker.js",
     "static/css/2.774e89e5.chunk.css.map": "/react-reused-components-usage/static/css/2.774e89e5.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-reused-components-usage/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.20f8c121.chunk.js.LICENSE.txt": "/react-reused-components-usage/static/js/2.20f8c121.chunk.js.LICENSE.txt"
+    "static/js/2.81b337d4.chunk.js.LICENSE.txt": "/react-reused-components-usage/static/js/2.81b337d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f820119.js",
     "static/css/2.774e89e5.chunk.css",
-    "static/js/2.20f8c121.chunk.js",
+    "static/js/2.81b337d4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ff6fae74.chunk.js"
+    "static/js/main.c3b037d9.chunk.js"
   ]
 }

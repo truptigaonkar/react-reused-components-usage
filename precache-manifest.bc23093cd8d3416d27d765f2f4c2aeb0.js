@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac88f33d6047f870772cef0f2fbacfce",
+    "revision": "36afa04a20b2edd20651198914fc53a0",
     "url": "/react-reused-components-usage/index.html"
   },
   {
-    "revision": "1448206500ab6784ea79",
+    "revision": "986fa291333e1b598196",
     "url": "/react-reused-components-usage/static/css/2.774e89e5.chunk.css"
   },
   {
-    "revision": "2c0c71d4f6dbe56f8faa",
+    "revision": "d36bc9c6965a9f4582d1",
     "url": "/react-reused-components-usage/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "1448206500ab6784ea79",
-    "url": "/react-reused-components-usage/static/js/2.20f8c121.chunk.js"
+    "revision": "986fa291333e1b598196",
+    "url": "/react-reused-components-usage/static/js/2.81b337d4.chunk.js"
   },
   {
     "revision": "3205f2f97be94286aaab611b41fbc37d",
-    "url": "/react-reused-components-usage/static/js/2.20f8c121.chunk.js.LICENSE.txt"
+    "url": "/react-reused-components-usage/static/js/2.81b337d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c0c71d4f6dbe56f8faa",
-    "url": "/react-reused-components-usage/static/js/main.ff6fae74.chunk.js"
+    "revision": "d36bc9c6965a9f4582d1",
+    "url": "/react-reused-components-usage/static/js/main.c3b037d9.chunk.js"
   },
   {
     "revision": "f9219d3e9c5dc4c1f35f",
