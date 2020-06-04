@@ -11,7 +11,7 @@ const Home = (props) => {
   return (
     <div style={{ marginTop: '-15px' }}>
       <Header
-        src='https://3.downloader.disk.yandex.ru/preview/66b89b661b2620f1f94d8ff9b1b8400d5536dd5f82895ebe0bbd54c267dbd55c/5ec63b0f/YG4VDE0r4b3dzmJujZ_82cXSg9m7xEl4r-tS6FcKaG4u_OOE-u0AxCGg6NJhar48q_J6bpmRyOJonT3VoXnDag%3D%3D?uid=0&filename=10.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1280x726'
+        src='https://i.pinimg.com/474x/1e/5c/6f/1e5c6f62f2ac2a6df4c9b1c19259cf41--pink-floral-background-flower-backgrounds.jpg'
         heading='React Reused Component'
         mainHeading='welcome to my component library'
         description='React reusable components is a React component library that can be used multiple times in your application. `React Reused Components` are served as an npm package - https://www.npmjs.com/package/react-reused-components.

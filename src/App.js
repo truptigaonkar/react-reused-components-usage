@@ -16,7 +16,7 @@ import Shoppingcart from './components/Shoppingcart';
 function App() {
   return (
     <div style={{marginTop:'-10px', marginLeft:'-15px'}}>
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
          <Navbar
       navbarStyle='navbar--dark'
       header='My App'
@@ -41,7 +41,7 @@ function App() {
         <Route path="/Carddetails" component={Carddetails} />
         <Route path="/Shoppingcart" component={Shoppingcart} />
     </Router>
-     <Footer footerStyle='footer--secondary' footerFixed='footer--fixed'>
+     <Footer footerStyle='footer--secondary'>
       © Copyright 2020 adfd
     </Footer>
     
